@@ -24,15 +24,15 @@ This is a app to check weather. You make account, login, then check weather for 
 
 # output
 
-- Type `2` for make new account
-- Type `1` for login and see weather
-- Type `3` for exit
+- enter `2` for make new account
+- enter `1` for login and see weather
+- enter `3` for exit
 
 ## files inside
 
 - `login.py` - The main program
-- `.env` - Your secret API key (don't upload to github!)
-- `users.json` - Your accounts data
-- `.gitignore` - Tell git what not upload
+- `.env` - Your secret API key 
+- `.gitignore` - Tells git what not upload
+- `requirements.txt`- contains names of all required python libraries for the project
 
 
